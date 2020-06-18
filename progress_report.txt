@@ -1,6 +1,6 @@
 This file will contain day-to-day progress of this project call "Tom the Bot"
 
 June 18 2020, Thursday
-    - Some research done for this project
-    - Will build this bot using python
+    - some research done for this project
+    - will build this bot using python
     - will use python tweepy library
