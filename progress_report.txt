@@ -4,3 +4,7 @@ June 18 2020, Thursday
     - some research done for this project
     - will build this bot using python
     - will use python tweepy library
+
+June 19 2020, Friday
+    - read tweepy doc
+    - start code soon
