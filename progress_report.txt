@@ -8,3 +8,6 @@ June 18 2020, Thursday
 June 19 2020, Friday
     - read tweepy doc
     - start code soon
+
+20 June 2020, Saturday
+    - twitter api documentation
